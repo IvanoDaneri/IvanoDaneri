@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IvanoDaneri
 - 👀 I’m interested in microservices tehcnology and web applications
 - 🌱 I’m currently learning about security in rest services
-- 💞️ I’m just share some examples on theme 
-- 📫 How to reach me ...
+- 💞️ I’m just share some code examples on theme 
 
 <!---
 IvanoDaneri/IvanoDaneri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
