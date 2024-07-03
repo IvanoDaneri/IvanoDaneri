@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @IvanoDaneri
 - 👀 I’m interested in microservices tehcnology and web applications
-- 🌱 I’m currently learning about security in rest services
-- 💞️ I’m just share some code examples on theme 
+- 🌱 New project about implementation of Json Web Token protocol in SpringBoot controller was released
+- 🌱 New Angular project using SpringBoot services with JWT security was released
+- 💞️ I’m just share all projects 
 
 <!---
 IvanoDaneri/IvanoDaneri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
